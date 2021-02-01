@@ -38,6 +38,9 @@
 [<img align="left" alt="Prashoon123 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br><br>
+
+<hr>
+
 <img align="left" alt="Prashoon123's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=CodeWithAlvin&show_icons=true&hide_border=true" />
 
 [portfolio-website]: https://alvinsaini.herokuapp.com/
