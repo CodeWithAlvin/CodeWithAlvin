@@ -1,5 +1,7 @@
 # Hi there, I'm Alvin Saini 👋 
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/imalvinsaini?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Ftwitter-clone-abc.web.app%2F&ref_src=twsrc%5Etfw&region=follow_link&screen_name=imalvinsaini&tw_p=followbutton)
+
 ## I am 16 year old devloper
 
 - 🔭 I’m currently working on face Emotion recogitation model
