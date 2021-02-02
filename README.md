@@ -32,15 +32,15 @@
 
 ### Connect with me:
 
-[<img align="left" alt="prashoon-portfolio.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio-website]
-[<img align="left" alt="Prashoon123 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Prashoon123 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="alvin's-Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio-website]
+[<img align="left" alt="Alvin Saini | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Alvin Saini | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br><br>
 
 <hr>
 
-<img align="left" alt="Prashoon123's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=CodeWithAlvin&show_icons=true&hide_border=true" />
+<img align="left" alt="Alvin's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=CodeWithAlvin&show_icons=true&hide_border=true" />
 
 [portfolio-website]: https://alvinsaini.herokuapp.com/
 [twitter]: https://twitter.com/@imalvinsaini
