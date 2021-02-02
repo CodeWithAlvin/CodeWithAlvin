@@ -44,4 +44,4 @@
 
 [portfolio-website]: https://alvinsaini.herokuapp.com/
 [twitter]: https://twitter.com/@imalvinsaini
-[linkedin]: https://www.linkedin.com/in/imalvinsaini/
+[linkedin]: https://www.linkedin.com/in/alvin-saini-96a193200
