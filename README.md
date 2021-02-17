@@ -6,7 +6,6 @@
 
 - 🔭 I’m currently working on face Emotion recogitation model
 - 🌱 I’m currently learning "how to make machine learn"
-- ⚡ Fun fact: there is no Fun fact
 
 <hr>
 
