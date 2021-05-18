@@ -1,7 +1,7 @@
-# Hi there, I'm Alvin Saini 👋 
+# [Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Alvin Saini ][portfolio-website]
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/imalvinsaini?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Ftwitter-clone-abc.web.app%2F&ref_src=twsrc%5Etfw&region=follow_link&screen_name=imalvinsaini&tw_p=followbutton)
-
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 ## I am 16 year old devloper
 
 - 🔭 I’m currently working on face Emotion recogitation model
@@ -26,16 +26,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br>
-
-<hr> 
-
-### Connect with me:
-
-[<img align="left" alt="alvin's-Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio-website]
-[<img align="left" alt="Alvin Saini | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Alvin Saini | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br><br>
-
 <hr>
 <p align="center">
 <a href="https://github.com/codewithalvin">
