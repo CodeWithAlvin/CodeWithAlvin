@@ -2,7 +2,7 @@
 
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-## I am 16 year old developer
+## I am python, web developer
 
 - 🔭 I’m currently working on face Emotion recogitation model
 - 🌱 I’m currently learning "how to make machine learn"
