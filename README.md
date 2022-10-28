@@ -36,6 +36,6 @@
 </a>
 </p>
 
-[portfolio-website]: https://alvinsaini.herokuapp.com/
+[portfolio-website]: https://alvinsaini.vercel.app/
 [twitter]: https://twitter.com/@imalvinsaini
 [linkedin]: https://www.linkedin.com/in/alvin-saini-96a193200
