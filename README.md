@@ -36,6 +36,10 @@
 </a>
 </p>
 
+## <h3> Visitor Count: </h3>
+![Visitor Count](https://profile-counter.glitch.me/codewithalvin/count.svg)
+
+
 [portfolio-website]: https://alvinsaini.vercel.app/
 [twitter]: https://twitter.com/@imalvinsaini
 [linkedin]: https://www.linkedin.com/in/alvin-saini-96a193200
